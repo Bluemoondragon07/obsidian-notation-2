@@ -18,6 +18,49 @@ Callouts are styled to look like Notion callouts by default, with a tranparent b
 
 ![](Screenshots/blue-callout.png)
 
+## Callout "Toggle Blocks"
+When I switched over to Obsidian from Notion, I found it hard to adjust to the absence of toggle blocks. So I added them to this theme.
+
+Any collapsible callout takes on the appearance of a Notion toggle block.
+
+### Regular Toggle Block
+```markdown
+>[!info]+ I am a toggle block.
+>I contain information.
+```
+
+![](Screenshots/toggle-block.png)
+
+
+Toggle blocks also support background colors.
+
+### Colored Toggle Block
+
+```markdown
+>[!info|blue]+ I am a blue toggle block.
+>I contain information.
+```
+
+![](Screenshots/blue-toggle.gif)
+
+### Just...Don't Create Empty Toggle Blocks
+This results in normal text with no collapse icon. 
+
+## Heading Callouts
+I made this mainly for toggles, but they work with regular callouts, too. Adding `h1`, `h2`, or `h3` inside the callout type brackets will increase the font size without messing up padding.
+
+### Examples
+```markdown
+>[!info|h1] I am a really large callout.
+
+>[!info|h2] I'm almost as big.
+
+>[!info|h3]+ Not an impressive size, I know, but I'm pretty big, too.
+>Plus, I have extra text right here.
+```
+
+![](Screenshots/heading-callouts.png)
+
 ## Banner Images
 > **Created with the help of:** [efemkay](https://forum.obsidian.md/t/css-how-to-style-the-first-image-in-a-note/52839)
 
