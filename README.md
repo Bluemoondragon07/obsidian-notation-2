@@ -4,7 +4,9 @@
 ![](cover.png)
 
 
-Notion has always been one of my favourite softwares for its advanced features, yet simple and user-friendly design that anyone can use. And **Notation** has long been one of my favourite Obsidian themes of all time (thanks, deathau!). The original Notation is still a bit broken after 1.0, so I thought I'd make a new theme that combined, in my personal opinion, the best elements of Notation with the greatest design features of Notion, all optimized for the latest version of Obsidian. With Notation 2, you can experience the power of cover (banner) images, callouts with custom backgrounds, and more (see: **Special Syntax**)
+Notion has always been one of my favourite softwares for its advanced features, yet simple and user-friendly design, while deathau's **Notation** is one of my favourite Obsidian themes of all time. The original Notation is still a bit broken after 1.0, so I thought I'd make a new theme that combined, in my personal opinion, the best elements of Notation with Notion's greatest features, all optimized for the latest version of Obsidian. 
+
+With Notation 2, you can experience the power of cover (banner) images, callouts with custom backgrounds, and more (see: **Special Syntax**)
 
 
 # Special Syntax
