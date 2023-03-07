@@ -90,6 +90,7 @@ You can also use Notation's original color scheme (which I personally prefer ove
 A huuuuge thanks to...
 
 - deathau for the amazing Notation theme!
+- efemkay for most of the banner images code - I would never have figured that out on my own!
 - subframe7536 for the beautiful Maple theme, which I referenced for the colorful tags
 - SIRvb for the ITS theme, which I referenced for the callout colors
 - The developers of Obsidian - four months ago I did not know CSS, but because of your app, *now I do*. Thank you so much for this app!
