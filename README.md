@@ -80,6 +80,26 @@ cssClass: sans
 ---
 ```
 
+## Other Classes
+
+### `small-text`
+Make the text in your note smaller.
+
+```markdown
+---
+cssClass: small-text
+---
+```
+
+## `wide`
+Make your note full-width.
+
+```markdown
+---
+cssClass: wide
+---
+```
+
 # Some Other Cool Things
 I tried as best as I could to mimic Notion's interface. Tags inside notes are multi-colored, Dataview tables have property icons, the backlinks block has been restyled, frontmatter looks like multi-select properties, inline dataview looks like text properties, Page Gallery plug-in looks the cards view of a database...
 
