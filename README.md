@@ -9,7 +9,7 @@ Notion has always been one of my favourite softwares for its advanced features, 
 
 # Special Syntax
 
-## Callouts Colors
+## Callout Colors
 Callouts are styled to look like Notion callouts by default, with a tranparent background and a faint outline. You can choose the color of any callout with ease: just add the color you want--`red`, `orange`, `yellow`, `green`, `blue`, `purple`, `pink`, `brown`, or `grey`/`gray`--inside the callout type brackets, separated by a `|`. 
 
 > Example: `>[!quote|blue]`
