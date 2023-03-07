@@ -41,7 +41,7 @@ Toggle blocks also support background colors.
 >I contain information.
 ```
 
-![](Screenshots/blue-toggle.gif)
+![](Screenshots/blue-toggle.png)
 
 ### Just...Don't Create Empty Toggle Blocks
 This results in normal text with no collapse icon. 
