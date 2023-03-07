@@ -5,6 +5,8 @@
 /* That's probably not important information, but whatever. */
 
 /* Forgive me for my still-messy code. */
+
+
 @import url('https://fonts.cdnfonts.com/css/ia-writer-duospace?styles=25006,25004');
 
 /* --------- fonts ---------- */
@@ -291,6 +293,9 @@ border-left: var(--divider-width) solid var(--background-modifier-border);
 .notation-titlebar .view-action.is-active {
   color: var(--text-normal);
   background-color: var(--background-primary-alt);
+}
+.notation-titlebar .view-header-title-parent .view-header-breadcrumb {
+  color: var(--text-faint);
 }
 
 /* -------------- note elements ------------- */
@@ -1436,7 +1441,7 @@ body.notation-colors.theme-dark {
   --text-accent: rgba(var(--text-rgb), 0.45);
   --text-accent-hover: rgba(var(--text-rgb), 0.45);
   --text-normal: rgba(var(--text-rgb), 0.9);
-  --text-muted: rgba(var(--text-rgb), 0.75);
+  --text-muted: rgba(var(--text-rgb), 0.7);
   --text-faint: rgba(var(--text-rgb), 0.55);
   --text-on-accent: rgba(var(--text-rgb), 0.9);
   --interactive-accent: rgb(var(--interactive-accent-rgb));
