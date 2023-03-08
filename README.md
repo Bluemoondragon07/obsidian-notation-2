@@ -6,7 +6,7 @@
 
 <br>
 
->1. [Special Syntax](https://github.com/Bluemoondragon07/obsidian-notation-1#special-syntax)
+>1. [Special Syntax](https://github.com/Bluemoondragon07/obsidian-notation-2/blob/main/README.md#special-syntax)
 >    1. [Callout Colors](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-colors)
 >    2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
 >    3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
