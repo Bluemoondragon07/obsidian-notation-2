@@ -81,8 +81,9 @@ I made this mainly for toggles, but they work with regular callouts, too. Adding
 
 ![](Screenshots/heading-callouts.png)
 
+# CSS Classes
+
 ## Banner Images
-> **Created with the help of:** [efemkay](https://forum.obsidian.md/t/css-how-to-style-the-first-image-in-a-note/52839)
 
 
 ![](Screenshots/cover-img.png)
@@ -110,8 +111,6 @@ Add another alt, `lower` or `higher` to control the positioning of the cover ima
 
 `![banner|lower](beach.png)`
 
-
-# CSS Classes
 
 ## Text Classes
 Just like in Notion, there are three fonts to choose from for each note: Sans, Serif, and Mono.
