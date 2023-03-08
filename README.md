@@ -94,7 +94,7 @@ Add another alt, `lower` or `higher` to control the positioning of the cover ima
 
 
 ## Text Classes
-In Notion, there are three fonts to choose from for each note: Sans, Serif, and Mono. With this theme, you can do the same!
+Just like in Notion, there are three fonts to choose from for each note: Sans, Serif, and Mono.
 
 > Note: you can also change the default global font from Style Settings.
 
