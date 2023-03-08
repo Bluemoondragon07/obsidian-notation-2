@@ -1,19 +1,30 @@
 
-> ## Based on [Notation](https://github.com/deathau/Notation-for-Obsidian) by **deathau.**
+> **Based on [Notation](https://github.com/deathau/Notation-for-Obsidian) by deathau.**
+
 
 ![](cover.png)
+
+<br>
+
+>1. [Special Syntax](https://github.com/Bluemoondragon07/obsidian-notation-1#special-syntax)
+>    1. [Callout Colors](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-colors)
+>    2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
+>    3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
+>    4. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
+>    5. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
+>2. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#1some-other-cool-things)
+>3. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
+
+<br>
+
 
 **Notion** has always been one of my favourite apps because of its advanced features, and **Notation** remains one of my favourite Obsidian themes of all time. The original Notation is still a bit broken after 1.0, so I thought I'd make a new theme combining the design elements of Notation with the features of Notion. 
 
 With Notation 2, you can experience the power of cover (banner) images, callouts with custom backgrounds, and more (see: **Special Syntax**)
 
+
 # Special Syntax
 
-1. [Callout Colors](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-colors)
-2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
-3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
-4. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
-5. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
 
 
 ## Callout Colors
