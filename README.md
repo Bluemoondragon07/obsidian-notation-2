@@ -12,7 +12,7 @@
 >    3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
 >    4. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
 >    5. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
->2. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#1some-other-cool-things)
+>2. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#some-other-cool-things)
 >3. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
 
 <br>
