@@ -6,6 +6,7 @@
 
 <br>
 
+> **Table of Contents**
 >1. [Special Syntax](https://github.com/Bluemoondragon07/obsidian-notation-2/blob/main/README.md#special-syntax)
 >    1. [Callout Colors](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-colors)
 >    2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
