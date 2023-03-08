@@ -10,12 +10,12 @@
 >    1. [Callout Colors](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-colors)
 >    2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
 >    3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
->    4. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
 >2. [CSS Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#css-classes)
->    5. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
->    6. [Other Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#other-classes)
->2. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#some-other-cool-things)
->3. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
+>    1. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
+>    2. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
+>    3. [Other Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#other-classes)
+>3. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#some-other-cool-things)
+>4. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
 
 <br>
 
