@@ -11,7 +11,9 @@
 >    2. [Toggle Blocks](https://github.com/Bluemoondragon07/obsidian-notation-2#callout-toggle-blocks)
 >    3. [Heading Callouts](https://github.com/Bluemoondragon07/obsidian-notation-2#heading-callouts)
 >    4. [Banner Images](https://github.com/Bluemoondragon07/obsidian-notation-2#banner-images)
+>2. [CSS Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#css-classes)
 >    5. [Text Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#text-classes)
+>    6. [Other Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#other-classes)
 >2. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#some-other-cool-things)
 >3. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
 
@@ -108,6 +110,8 @@ Add another alt, `lower` or `higher` to control the positioning of the cover ima
 
 `![banner|lower](beach.png)`
 
+
+# CSS Classes
 
 ## Text Classes
 Just like in Notion, there are three fonts to choose from for each note: Sans, Serif, and Mono.
