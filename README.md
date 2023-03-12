@@ -180,4 +180,5 @@ A huuuuge thanks to...
 - SIRvb for the epic ITS theme, which I referenced for the callout colors
 - The developers of Obsidian - four months ago I did not know CSS, but because of your app, *now I do*. Thank you so much for this app!
 
-
+# License
+This theme is under **The Unlicense**, so feel free to do whatever you want with it!
