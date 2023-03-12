@@ -17,6 +17,7 @@
 >    3. [Other Classes](https://github.com/Bluemoondragon07/obsidian-notation-2#other-classes)
 >3. [Some Other Cool Things](https://github.com/Bluemoondragon07/obsidian-notation-2#some-other-cool-things)
 >4. [Credits](https://github.com/Bluemoondragon07/obsidian-notation-2#credits-)
+>5. [License](https://github.com/Bluemoondragon07/obsidian-notation-2/blob/main/README.md#license)
 
 <br>
 
