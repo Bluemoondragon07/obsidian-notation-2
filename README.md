@@ -1,5 +1,5 @@
 
-> **Based on [Notation](https://github.com/deathau/Notation-for-Obsidian) by deathau.**
+> **Based on [Notion](https://notion.so) and the [Notation](https://github.com/deathau/Notation-for-Obsidian) theme by deathau**
 
 
 ![](cover.png)
