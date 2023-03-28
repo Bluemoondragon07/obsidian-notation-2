@@ -178,18 +178,19 @@ body {
 
 /* ------- new page and new folder buttons ----- */
 
-/* move buttons container to botton */
+/* move buttons container to bottom */
+.workspace-leaf-content[data-type='file-explorer'] {
+  flex-direction: column-reverse;
+}
+
+/* remove redundant spaces */
+div.nav-header {
+  padding: 0px;
+}
+
 .workspace-leaf-content[data-type="file-explorer"] .nav-buttons-container {
-  position: absolute;
-  justify-content: left;
-  bottom: 0;
-  z-index: 1;
-  background-color: var(--background-secondary) !important;
- width: 100%;
- left: 0;
- padding: 0px;
- gap: 0px;
- border-top: var(--divider-width) var(--background-modifier-border) solid;
+  flex-flow: row; /* let the items spread horizontally */
+  border-top: var(--divider-width) var(--background-modifier-border) solid;
 }
 
 /* -- new note -- */
