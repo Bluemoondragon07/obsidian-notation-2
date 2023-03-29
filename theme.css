@@ -1226,13 +1226,27 @@ body {
 .modal {
   border: none;
 }
+
+.mod-settings div.vertical-tab-content{
+  padding: 36px 60px; /* setting content in notion has padding of 36px 60px */
+}
+.mod-settings div.setting-item {
+  padding: 0px; /* remove original paddings */
+  padding-bottom: 18px; /* setting items in notion have space of 18px */
+}
+
 .setting-item.setting-item-heading {
 border-bottom: 1px solid var(--background-modifier-border);
 margin-bottom: 16px;
-padding-bottom: 12px;
+padding-bottom: 12px !important;
 font-size: var(--font-ui-large);
 font-weight: 500 !important;
 width: auto;
+}
+
+div.installed-plugins-container {
+  border-top: none; /* remove duplicate border on community plugins page */
+  padding-top: 0px; /* remove duplicate 16px padding in community plugins page */
 }
 
 /* ------------- banners --------------- */
