@@ -178,18 +178,19 @@ body {
 
 /* ------- new page and new folder buttons ----- */
 
-/* move buttons container to botton */
+/* move buttons container to bottom */
+.workspace-leaf-content[data-type='file-explorer'] {
+  flex-direction: column-reverse;
+}
+
+/* remove redundant spaces */
+div.nav-header {
+  padding: 0px;
+}
+
 .workspace-leaf-content[data-type="file-explorer"] .nav-buttons-container {
-  position: absolute;
-  justify-content: left;
-  bottom: 0;
-  z-index: 1;
-  background-color: var(--background-secondary) !important;
- width: 100%;
- left: 0;
- padding: 0px;
- gap: 0px;
- border-top: var(--divider-width) var(--background-modifier-border) solid;
+  flex-flow: row; /* let the items spread horizontally */
+  border-top: var(--divider-width) var(--background-modifier-border) solid;
 }
 
 /* -- new note -- */
@@ -1225,13 +1226,27 @@ body {
 .modal {
   border: none;
 }
+
+.mod-settings div.vertical-tab-content{
+  padding: 36px 60px; /* setting content in notion has padding of 36px 60px */
+}
+.mod-settings div.setting-item {
+  padding: 0px; /* remove original paddings */
+  padding-bottom: 18px; /* setting items in notion have space of 18px */
+}
+
 .setting-item.setting-item-heading {
 border-bottom: 1px solid var(--background-modifier-border);
 margin-bottom: 16px;
-padding-bottom: 12px;
+padding-bottom: 12px !important;
 font-size: var(--font-ui-large);
 font-weight: 500 !important;
 width: auto;
+}
+
+div.installed-plugins-container {
+  border-top: none; /* remove duplicate border on community plugins page */
+  padding-top: 0px; /* remove duplicate 16px padding in community plugins page */
 }
 
 /* ------------- banners --------------- */
