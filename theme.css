@@ -1671,9 +1671,9 @@ settings:
   -
     id: wys
     title: WYSIWYG Effect
-    description: Evenly spaced paragraphs in edit and reading mode and tweaks to heading margins.
+    description: Treats any newline like a paragraph in reading mode; a few tweaks to heading margins.
     type: class-toggle
-    default: true
+    default: false
   -
     id: banners-heading
     title: Note Cover Images
