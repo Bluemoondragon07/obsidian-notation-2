@@ -1051,7 +1051,7 @@ body {
 }
 
 /* -- MAKE PARAGRAPH and LINE SPACING EVEN IN READING AND EDIT MODES */
-.wys .markdown-preview-view br, .wys .markdown-source-view, br {
+.wys .markdown-preview-view br,  .wys br {
   content: '';
   display: block;
   margin-top: calc(var(--custom-line-height) / 2);
