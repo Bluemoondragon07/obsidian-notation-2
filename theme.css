@@ -1288,76 +1288,39 @@ body {
 }
 
 /* remove bottom border when collapsed */
-.frontmatter-container.is-collapsed .frontmatter-container-header {
-  visibility:hidden;
-  font-size: var(--font-ui-small);
-}
+
 
 /* custom 'Properties' metadata text */
-.frontmatter-container.is-collapsed .frontmatter-container-header::before {
-  content: '+ Properties' !important;
-  width: 100%;
-  padding: 10px 0;
-  position: absolute !important;
-  visibility: visible;
-}
-.frontmatter-container:not(.is-collapsed) .frontmatter-container-header {
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  position: absolute
+.metadata-properties-heading.is-collapsed {
+  color: var(--text-faint) !important;
 }
 
-
-.frontmatter-container:not(.is-collapsed) {
+.metadata-container:not(.is-collapsed) {
   border-bottom: var(--divider-width) solid var(--background-modifier-border);
   border-top: var(--divider-width) solid var(--background-modifier-border);
 }
-.frontmatter-section-label {
+.metadata-property-key {
   color: var(--text-muted);
   width: fit-content;
-  white-space: pre;
   padding-right: 0.8em;
   padding-left: 8px; 
   font-size: var(--font-ui-smaller) !important;
 }
 
-/* alternating icons */
-.frontmatter-section-label::before {
-  content: " ";
-  background-color: var(--text-faint);
-  -webkit-mask-image: var(--list-icon);
-  display: inline-block;
-  width: 1.2em;
-  height: 1.2em;
-  margin-right: 0.8em;
-  margin-bottom: -0.2em;
-  -webkit-mask-repeat: no-repeat;
-}
-.frontmatter-section:nth-of-type(4n + 3) .frontmatter-section-label::before {
+/* different icons */
+.svg-icon.lucide-binary {
   -webkit-mask-image: var(--number-icon);
+  -webkit-mask-repeat: no-repeat;
+  background-color: currentColor !important;
+
 }
-.frontmatter-section:nth-of-type(4n + 3) .frontmatter-section-data-item {
-  background-color: transparent !important;
-}
-.frontmatter-section:nth-of-type(4n + 5) .frontmatter-section-label::before {
-  -webkit-mask-image: var(--list-menu-icon);
-}
-.frontmatter-section:nth-of-type(4n + 2) .frontmatter-section-label::before {
-  -webkit-mask-image: var(--text-icon);
-}
-.frontmatter-section:nth-of-type(4n + 2) .frontmatter-section-data-item {
-  background-color: transparent !important;
-}
-.frontmatter-section:nth-of-type(4n + 4) .frontmatter-section-label::before {
+.svg-icon.lucide-list {
   -webkit-mask-image: var(--status-icon);
+  -webkit-mask-repeat: no-repeat;
+  background-color: currentColor !important;
 }
 
-
-.frontmatter-section-data.frontmatter-section-tags a.tag {
-  padding: 3px 7px;
-}
-.frontmatter-section-data-item {
+.multi-select-pill {
   margin-left: 8px;
   padding: 0px 7px;
   font-size: var(--font-ui-smaller) !important;
@@ -1370,34 +1333,34 @@ border-bottom: var(--divider-width) solid var(--background-modifier-border);
 font-weight: var(--font-normal);
 }
 
-.frontmatter-section:nth-of-type(10n + 2) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 1) {
   background-color: var(--tag-1-default);
 }
-.frontmatter-section:nth-of-type(10n + 3) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 2) {
   background-color: var(--tag-2-default);
 }
-.frontmatter-section:nth-of-type(10n + 4) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 3){
   background-color: var(--tag-3-default) ;
 }
-.frontmatter-section:nth-of-type(10n + 5) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 4){
   background-color: var(--tag-4-default);
 }
-.frontmatter-section:nth-of-type(10n + 6) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 5){
   background-color: var(--tag-5-default);
 }
-.frontmatter-section:nth-of-type(10n + 7) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 6) {
   background-color: var(--tag-6-default) ;
 }
-.frontmatter-section:nth-of-type(10n + 8) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 7){
   background-color: var(--tag-7-default) ;
 }
-.frontmatter-section:nth-of-type(10n + 9) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 8) {
   background-color: var(--tag-8-default) ;
 }
-.frontmatter-section:nth-of-type(10n + 10) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 9) {
   background-color: var(--tag-9-default) ;
 }
-.frontmatter-section:nth-of-type(10n + 11) .frontmatter-section-data-item {
+.multi-select-pill:nth-of-type(10n + 10) {
   background-color: var(--tag-10-default) ;
 }
 
